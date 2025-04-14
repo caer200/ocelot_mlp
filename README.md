@@ -4,5 +4,7 @@ This repository provides a trained machine learning (ML) potential developed for
 
 Use the `relaxation.ipynb` file to run the relaxation on `test.cif`.
 
+Use the `dataset.ipynb` shows how to extract the structure, energy, forces and stress from `test.cif`.
+
 The trained model is in `m3gnet` folder
 
