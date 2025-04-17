@@ -8,3 +8,4 @@ The `dataset.ipynb` shows how to extract the structure, energy, forces and stres
 
 The trained model is in `m3gnet` folder
 
+The notebooks also have corresponding `relaxation.py` and `dataset.py` files for more handsoff utilization
